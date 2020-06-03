@@ -9,6 +9,9 @@ By definition, a product manager is an individual who drives the product vision 
 ## Contents
 
 - [Skills & Areas of Responsibility](#skills)
+  - [Strategy](#strategy)
+  - [Technical](#technical)
+  - [Go-To-Market](#go-to-market)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -29,6 +32,17 @@ By definition, a product manager is an individual who drives the product vision 
   - [Taskade](#taskade)
   - [Notejoy](#notejoy)
   - [productboard](#productboard)
+- [Utilities](#utilities)
+- [Seeds](#seeds)
+- [Open Source PM](#open-source)
+- [Frameworks](#frameworks)
+- [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Talks](#talks)
+- [Training & tutorials](#training)
+- [Blogs](#blogs)
+- [Newsletters](#newsletters)
+- [People to Follow](#people)
 - [License](#license)
                                      
 ## Skills & Areas of Responsibility
