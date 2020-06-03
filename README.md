@@ -241,7 +241,9 @@ productboard is the product management system that helps you understand what use
 
 ## Certifications
 
-- [Certified Product Manager](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
+- [CPM - Certified Product Manager](https://aipmm.com/cpm/) - The Association of International Product Marketing & Management offers the CPM certification by way of an exam.
+- [CPM Online Course & Exam](https://280group.com/products/online-courses/certified-product-manager-online-course-exam/) - The Certified Product Manager – Online Course and Exam teaches you all the core skills that are critical to be a highly-effective Product Manager. In this course you’ll learn how to manage products through every phase of the Product Lifecycle to make them (and your career) more successful. The online course includes 18 learning modules, quizzes, interactive exercises, study materials and a comprehensive practice exam to help you master the material and pass the worldwide-standard Certified Product Manager exam.
+
 
 ## Additional resources
 
