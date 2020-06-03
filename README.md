@@ -183,6 +183,10 @@ productboard is the product management system that helps you understand what use
 
 ## Frameworks
 
+- [Open Product Management Workflow™](https://open-pmw.org/)
+- [Pragmatic Framework](https://www.pragmaticinstitute.com/framework) - Pragmatic Institute have created their own product management framework that they teach via in-person or online training.
+- [Optimal Product Process™](https://280group.com/product-management-methodology/optimal-product-process-framework/)
+
 ## Tutorials
 
 ## Videos
