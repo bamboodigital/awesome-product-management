@@ -35,7 +35,6 @@ By definition, a product manager is an individual who drives the product vision 
 
 Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
 
-![OneNote](/media/tool-onenote.gif)
 
 | Property  | Value                              |
 |-----------|------------------------------------|
@@ -48,7 +47,6 @@ Efficient note-taking with superior organizational capabilities. Integrates easi
 
 Note-taking in Markdown format, with tag-based organizational capabilities.
 
-![Bear](/media/tool-bear.gif)
 
 | Property  | Value                                      |
 |-----------|--------------------------------------------|
@@ -83,7 +81,6 @@ A tool to quickly manage "to-dos".
 
 All-in-one workspace for teams and individuals.
 
-![Notion](/media/tool-notion.gif)
 
 | Property  | Value                                                |
 |-----------|------------------------------------------------------|
@@ -107,7 +104,6 @@ Wireframing tool that allows building mocks without a strong focus on details. E
 
 Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
 
-![Sketch](/media/tool-sketch.gif)
 
 | Property  | Value                                                |
 |-----------|------------------------------------------------------|
@@ -120,7 +116,6 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 
 A better way to design. Design, prototype, and collaborate all in the browser—with Figma.
 
-![Figma](/media/tool-figma.gif)
 
 | Property  | Value                                |
 |-----------|--------------------------------------|
@@ -133,7 +128,6 @@ A better way to design. Design, prototype, and collaborate all in the browser—
 
 Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
 
-![Taskade](/media/tool-taskade.gif)
 
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
@@ -157,7 +151,6 @@ A collaborative note-taking application that is simple, intuitive and allows you
 
 productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap.
 
-![productboard](/media/tool-productboard.png)
 
 | Property  | Value                                                              |
 |-----------|--------------------------------------------------------------------|
