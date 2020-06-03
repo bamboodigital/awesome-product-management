@@ -21,20 +21,12 @@ By definition, a product manager is an individual who drives the product vision 
 - [Courses](#courses)
 - [Additional resources](#additional-resources)
 - [Tools](#tools)
-  - [OneNote](#onenote)
-  - [Bear](#bear)
-  - [Trello](#trello)
   - [To-Do](#to-do)
-  - [Notion](#notion)
-  - [Balsamiq](#balsamiq)
-  - [Sketch](#sketch)
-  - [Figma](#figma)
-  - [Taskade](#taskade)
-  - [Notejoy](#notejoy)
-  - [productboard](#productboard)
-- [Utilities](#utilities)
+  - [Notes](#notes)
+  - [Product Roadmap](#product-roadmap)
+  - [Research](#research)
+  - [Prototyping & Wireframing](#prototyping-wireframing)
 - [Seeds](#seeds)
-- [Open Source PM](#open-source)
 - [Frameworks](#frameworks)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -134,10 +126,20 @@ By definition, a product manager is an individual who drives the product vision 
 - [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
 - [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
 
-## Courses
+## Courses & Training
 
-- [Udemy](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
-- [Udacity](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
+### Online
+
+- [Udemy](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) - Become a Product Manager
+- [Udemy](https://www.udemy.com/course/productmanagement101/) - Product Management 101
+- [Udemy](https://www.udemy.com/course/productmanagementinterview/) - Master the Product Manager Interview
+- [Udemy](https://www.udemy.com/course/advanced-product-management-vision-strategy-metrics/) - Advanced Product Management: Vision, Strategy & Metrics
+- [Udacity](https://www.udacity.com/course/product-manager-nanodegree--nd036) - Become a Product Manager - Nanodegree
+- []
+
+### Classroom
+
+- [Product School](https://www.productschool.com/) - Product School
 
 ## Additional resources
 
@@ -145,55 +147,61 @@ By definition, a product manager is an individual who drives the product vision 
 
 ## Tools
 
-### OneNote
-
-Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals. (https://onenote.com)
-
-### Bear
-
-Note-taking in Markdown format, with tag-based organizational capabilities. (http://www.shinyfrog.net)
-
-### Trello
-
-Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform. (https://trello.com)
-
 ### To-Do
+
+#### To-Do
 
 A tool to quickly manage "to-dos". (https://to-do.microsoft.com)
 
-### Notion
+#### Trello
 
-All-in-one workspace for teams and individuals. (https://notion.so)
+Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform. (https://trello.com) 
 
-### Balsamiq
-
-Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content. (https://balsamiq.com)
-
-### Sketch
-
-Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences. (https://www.sketchapp.com)
-
-### Figma
-
-A better way to design. Design, prototype, and collaborate all in the browser—with Figma. (https://www.figma.com)
-
-### Taskade
-
-Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams. (https://www.taskade.com)                                            |
-
-### Notejoy
-
-A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those. (https://notejoy.com)
-
-### productboard
+#### Product Board
 
 productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap. (https://www.productboard.com)
 
-## Utilities
+#### Taskade
+
+Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams. (https://www.taskade.com)   
+
+### Notes
+
+#### OneNote
+
+Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals. (https://onenote.com)
+
+#### Bear
+
+Note-taking in Markdown format, with tag-based organizational capabilities. (http://www.shinyfrog.net)
+
+#### Notion
+
+All-in-one workspace for teams and individuals. (https://notion.so)
+
+#### Notejoy
+
+A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those. (https://notejoy.com)
+
+### Product Roadmap
+
+### Research
+
+### Prototyping & Wireframing
+
+#### Balsamiq
+
+Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content. (https://balsamiq.com)
+
+#### Sketch
+
+Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences. (https://www.sketchapp.com)
+
+#### Figma
+
+A better way to design. Design, prototype, and collaborate all in the browser—with Figma. (https://www.figma.com)
 
 ## Seeds
-
-## Open Source PM
 
 ## Frameworks
 
