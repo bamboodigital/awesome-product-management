@@ -175,6 +175,28 @@ A collaborative note-taking application that is simple, intuitive and allows you
 
 productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap. (https://www.productboard.com)
 
+## Utilities
+
+## Seeds
+
+## Open Source PM
+
+## Frameworks
+
+## Tutorials
+
+## Videos
+
+## Talks
+
+## Training & tutorials
+
+## Blogs
+
+## Newsletters
+
+## People to Follow
+
 ## License
 
 Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
