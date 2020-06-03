@@ -8,6 +8,15 @@ By definition, a product manager is an individual who drives the product vision 
 
 ## Contents
 
+- [Skills & Areas of Responsibility](#skills)
+- [Articles](#articles)
+- [Books](#books)
+- [Podcasts](#podcasts)
+- [Certifications](#certifications)
+- [Communities](#communities)
+- [Conferences](#conferences)
+- [Courses](#courses)
+- [Additional resources](#additional-resources)
 - [Tools](#tools)
   - [OneNote](#onenote)
   - [Bear](#bear)
@@ -20,144 +29,18 @@ By definition, a product manager is an individual who drives the product vision 
   - [Taskade](#taskade)
   - [Notejoy](#notejoy)
   - [productboard](#productboard)
-- [Articles](#articles)
-- [Books](#books)
-- [Podcasts](#podcasts)
-- [Communities](#communities)
-- [Conferences](#conferences)
-- [Certifications](#certifications)
-- [Additional resources](#additional-resources)
 - [License](#license)
+                                     
+## Skills & Areas of Responsibility
 
-## Tools
-
-### OneNote
-
-Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals.
+### Strategy
 
 
-| Property  | Value                              |
-|-----------|------------------------------------|
-| Developer | [Microsoft](https://microsoft.com) |
-| Cost      | Free                               |
-| Platform  | macOS, Windows, iOS, Android, web  |
-| URL       | https://onenote.com                |
-
-### Bear
-
-Note-taking in Markdown format, with tag-based organizational capabilities.
+### Technical
 
 
-| Property  | Value                                      |
-|-----------|--------------------------------------------|
-| Developer | [Shiny Frog](http://www.shinyfrog.net/)    |
-| Cost      | Freemium (_$16/yr subscription available_) |
-| Platform  | macOS, iOS                                 |
-| URL       | https://bear.app/                          |
+### Go-To-Market
 
-### Trello
-
-Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform.
-
-| Property  | Value                                          |
-|-----------|------------------------------------------------|
-| Developer | [Atlassian](https://www.atlassian.com/)        |
-| Cost      | Freemium (_$9.99/mo+ subscriptions available_) |
-| Platform  | macOS, Windows, iOS, Android, web              |
-| URL       | https://trello.com/                            |
-
-### To-Do
-
-A tool to quickly manage "to-dos".
-
-| Property  | Value                                   |
-|-----------|-----------------------------------------|
-| Developer | [Microsoft](https://www.microsoft.com/) |
-| Cost      | Free                                    |
-| Platform  | macOS, Windows, iOS, Android, web       |
-| URL       | https://to-do.microsoft.com/            |
-
-### Notion
-
-All-in-one workspace for teams and individuals.
-
-
-| Property  | Value                                                |
-|-----------|------------------------------------------------------|
-| Developer | [Notion Labs](https://notion.so/)                    |
-| Cost      | Freemium (_$4/mo/user individual, $8/mo/user teams_) |
-| Platform  | macOS, Windows, iOS, Android, web                    |
-| URL       | https://notion.so/                                   |
-
-### Balsamiq
-
-Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content.
-
-| Property  | Value                                          |
-|-----------|------------------------------------------------|
-| Developer | [Balsamiq Studios, LLC](https://balsamiq.com/) |
-| Cost      | Paid (_$89/person - permanent license_)        |
-| Platform  | macOS, Windows, web                            |
-| URL       | https://balsamiq.com/                          |
-
-### Sketch
-
-Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
-
-
-| Property  | Value                                                |
-|-----------|------------------------------------------------------|
-| Developer | [Bohemian B.V.](https://www.sketchapp.com/about-us/) |
-| Cost      | Paid (_$99/year_)                                    |
-| Platform  | macOS                                                |
-| URL       | https://www.sketchapp.com/                           |
-
-### Figma
-
-A better way to design. Design, prototype, and collaborate all in the browser—with Figma.
-
-
-| Property  | Value                                |
-|-----------|--------------------------------------|
-| Developer | [Figma](https://www.figma.com/blog/) |
-| Cost      | Freemium (_$0-45/month_)             |
-| Platform  | macOS, Windows, web                  |
-| URL       | https://www.figma.com                |
-
-### Taskade
-
-Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
-
-
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Taskade Inc.](https://taskade.com/about)                          |
-| Cost      | Freemium (_$0-10/month_)                                           |
-| Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
-| URL       | https://www.taskade.com                                            |
-
-### Notejoy
-
-A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
-
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
-| Cost      | Freemium (_$0-12/month_)                                           |
-| Platform  | macOS, Windows, iOS, Android, web                                  |
-| URL       | https://notejoy.com                                                |
-
-### productboard
-
-productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap.
-
-
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [productboard](https://www.productboard.com/)                      |
-| Cost      | Paid (starts at _$49/month_)                                       |
-| Platform  | web                                                                |
-| URL       | https://productboard.com                                           |
 
 ## Articles
 
@@ -219,6 +102,11 @@ productboard is the product management system that helps you understand what use
 | <img alt="The Pitch" src="/media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
 | <img alt="ReWork" src="/media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
 
+## Certifications
+
+- [CPM - Certified Product Manager](https://aipmm.com/cpm/) - The Association of International Product Marketing & Management offers the CPM certification by way of an exam.
+- [CPM Online Course & Exam](https://280group.com/products/online-courses/certified-product-manager-online-course-exam/) - The Certified Product Manager – Online Course and Exam teaches you all the core skills that are critical to be a highly-effective Product Manager. In this course you’ll learn how to manage products through every phase of the Product Lifecycle to make them (and your career) more successful. The online course includes 18 learning modules, quizzes, interactive exercises, study materials and a comprehensive practice exam to help you master the material and pass the worldwide-standard Certified Product Manager exam.
+
 ## Communities
 
 - [Women in Product](https://www.womenpm.org/) (_using [Facebook](https://facebook.com)_)
@@ -232,15 +120,60 @@ productboard is the product management system that helps you understand what use
 - [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
 - [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
 
-## Certifications
+## Courses
 
-- [CPM - Certified Product Manager](https://aipmm.com/cpm/) - The Association of International Product Marketing & Management offers the CPM certification by way of an exam.
-- [CPM Online Course & Exam](https://280group.com/products/online-courses/certified-product-manager-online-course-exam/) - The Certified Product Manager – Online Course and Exam teaches you all the core skills that are critical to be a highly-effective Product Manager. In this course you’ll learn how to manage products through every phase of the Product Lifecycle to make them (and your career) more successful. The online course includes 18 learning modules, quizzes, interactive exercises, study materials and a comprehensive practice exam to help you master the material and pass the worldwide-standard Certified Product Manager exam.
-
+- [Udemy](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
+- [Udacity](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
 
 ## Additional resources
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
+
+## Tools
+
+### OneNote
+
+Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals. (https://onenote.com)
+
+### Bear
+
+Note-taking in Markdown format, with tag-based organizational capabilities. (http://www.shinyfrog.net)
+
+### Trello
+
+Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform. (https://trello.com)
+
+### To-Do
+
+A tool to quickly manage "to-dos". (https://to-do.microsoft.com)
+
+### Notion
+
+All-in-one workspace for teams and individuals. (https://notion.so)
+
+### Balsamiq
+
+Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content. (https://balsamiq.com)
+
+### Sketch
+
+Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences. (https://www.sketchapp.com)
+
+### Figma
+
+A better way to design. Design, prototype, and collaborate all in the browser—with Figma. (https://www.figma.com)
+
+### Taskade
+
+Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams. (https://www.taskade.com)                                            |
+
+### Notejoy
+
+A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those. (https://notejoy.com)
+
+### productboard
+
+productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap. (https://www.productboard.com)
 
 ## License
 
