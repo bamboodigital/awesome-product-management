@@ -162,10 +162,6 @@ By definition, a product manager is an individual who drives the product vision 
 
 - [Product School](https://www.productschool.com/) - Product School
 
-## Additional resources
-
-- [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
-
 ## Tools
 
 ### To-Do
@@ -249,6 +245,8 @@ Maze is a user testing platform that turns your  prototype into actionable insig
 ## People to Follow
 
 ## Blogs
+
+- [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 
 ## Newsletters
 
