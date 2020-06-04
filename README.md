@@ -120,6 +120,7 @@ By definition, a product manager is an individual who drives the product vision 
 - [PMTrack](https://pmtrack.co) (_using [Slack](https://slack.com/)_)
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
+- [Reddit](https://www.reddit.com/r/ProductManagement/) - /r/productmanagement
 
 ## Conferences
 
@@ -217,11 +218,27 @@ A better way to design. Design, prototype, and collaborate all in the browser—
 
 ## Training & tutorials
 
+## People to Follow
+
 ## Blogs
 
 ## Newsletters
 
-## People to Follow
+## Meetups
+
+### North America
+
+### South America
+
+### Asia
+
+### Africa
+
+### Australia
+
+### Europe
+
+### Middle-East
 
 ## License
 
