@@ -12,6 +12,7 @@ By definition, a product manager is an individual who drives the product vision 
   - [Strategy](#strategy)
   - [Technical](#technical)
   - [Go-To-Market](#go-to-market)
+- [Problems](#problems)
 - [Articles](#articles)
 - [Books](#books)
 - [Podcasts](#podcasts)
@@ -41,12 +42,32 @@ By definition, a product manager is an individual who drives the product vision 
 
 ### Strategy
 
+#### Business Case Document
+
+#### Market Needs Document
+
+#### Product Description Document
+
+#### Roadmap Document
 
 ### Technical
 
-
 ### Go-To-Market
 
+#### Launch Plan
+
+#### Marketing Plan
+
+#### End of Life Plan
+
+
+## Specific Problems
+
+### Increase Adoption
+
+### Increase Engagement
+
+### Increase Sales
 
 ## Articles
 
@@ -136,7 +157,6 @@ By definition, a product manager is an individual who drives the product vision 
 - [Udemy](https://www.udemy.com/course/productmanagementinterview/) - Master the Product Manager Interview
 - [Udemy](https://www.udemy.com/course/advanced-product-management-vision-strategy-metrics/) - Advanced Product Management: Vision, Strategy & Metrics
 - [Udacity](https://www.udacity.com/course/product-manager-nanodegree--nd036) - Become a Product Manager - Nanodegree
-- []
 
 ### Classroom
 
@@ -201,6 +221,14 @@ Mocking and prototyping made efficient. Offers many downloadable components that
 #### Figma
 
 A better way to design. Design, prototype, and collaborate all in the browser—with Figma. (https://www.figma.com)
+
+#### InVision
+
+(https://www.invisionapp.com/)
+
+#### Maze
+
+Maze is a user testing platform that turns your  prototype into actionable insights from real users, bringing confidence to the design process. (https://maze.design/)
 
 ## Seeds
 
