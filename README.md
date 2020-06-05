@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for product/program managers to learn and grow. 
 
-## Who's a product manager?
+## Who's a Product Manager?
 
 By definition, a product manager is an individual who drives the product vision and has a deep understanding of customer needs. PMs generally are considered to be at the intersection of the business, technology and and design spaces - they are the experts in the problem space, and are able to learn and iterate quickly to deliver valuable experiences to consumers.
 
@@ -10,14 +10,13 @@ By definition, a product manager is an individual who drives the product vision 
 
 - [Skills & Areas of Responsibility](#skills)
   - [Strategy](#strategy)
-  - [Technical](#technical)
-  - [Go-To-Market](#go-to-market)
+  - [Execution](#execution)
 - [Frameworks](#frameworks)
 - [Courses, Training & Certifications](#courses)
 	- [Online](#online)
 	- [Classroom](#classroom)
 	- [Certifications](#certifications)
-- Resources
+- [Resources](#resources)
 	- [Articles](#articles)
 		- [Adoption](#adoption)
 		- [Engagement](#engagement)
@@ -44,6 +43,93 @@ By definition, a product manager is an individual who drives the product vision 
 
 ### Strategy
 
+#### Market Problems
+
+#### Win/Loss Analysis
+
+#### Distinctive Competencies
+
+#### Competitive Landscape
+
+#### Asset Assessment
+
+#### Market Definition
+
+#### Distribution Strategy
+
+#### Product Portfolio
+
+#### Product Roadmap
+
+#### Business Plan
+
+#### Pricing
+
+#### Buy, Build or Partner
+
+#### Product Profitability
+
+#### Innovation
+
+#### Positioning
+
+#### Buyer Experience
+
+#### Buyer Personas
+
+#### User Personas
+
+#### Requirements
+
+#### Use Scenarios
+
+#### Stakeholder Communications
+
+
+
+### Execution
+
+
+#### Go-to-Market Team
+
+#### Product Launch Plan
+
+#### Marketing Plan
+
+#### Revenue Growth
+
+#### Revenue Retention
+
+#### Launch
+
+#### Awareness
+
+#### Nurturing
+
+#### Advocacy
+
+#### Measurement
+
+#### Sales Alignment
+
+#### Content
+
+#### Sales Tools
+
+#### Channel Training
+
+#### Programs
+
+#### Operations
+
+#### Events
+
+#### Channels
+
+
+
+### Documents & Plans
+
 #### Business Case Document
 
 #### Market Needs Document
@@ -52,9 +138,9 @@ By definition, a product manager is an individual who drives the product vision 
 
 #### Roadmap Document
 
-### Technical
+#### Market Strategy Document
 
-### Go-To-Market
+#### Beta Plan
 
 #### Launch Plan
 
@@ -62,30 +148,33 @@ By definition, a product manager is an individual who drives the product vision 
 
 #### End of Life Plan
 
+
 ## Frameworks
 
 - [Open Product Management Workflow™](https://open-pmw.org/)
 - [Pragmatic Framework](https://www.pragmaticinstitute.com/framework) - Pragmatic Institute have created their own product management framework that they teach via in-person or online training.
 - [Optimal Product Process™](https://280group.com/product-management-methodology/optimal-product-process-framework/)
 
+
 ## Courses, Training & Certifications
 
 ### Online
 
-- [Udemy](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) - Become a Product Manager
-- [Udemy](https://www.udemy.com/course/productmanagement101/) - Product Management 101
-- [Udemy](https://www.udemy.com/course/productmanagementinterview/) - Master the Product Manager Interview
-- [Udemy](https://www.udemy.com/course/advanced-product-management-vision-strategy-metrics/) - Advanced Product Management: Vision, Strategy & Metrics
-- [Udacity](https://www.udacity.com/course/product-manager-nanodegree--nd036) - Become a Product Manager - Nanodegree
+- [Udemy - Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
+- [Udemy - Product Management 101](https://www.udemy.com/course/productmanagement101/)
+- [Udemy - Master the Product Manager Interview](https://www.udemy.com/course/productmanagementinterview/)
+- [Udemy - Advanced Product Management: Vision, Strategy & Metrics](https://www.udemy.com/course/advanced-product-management-vision-strategy-metrics/)
+- [Udacity - Become a Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
+- [CPM - Online Course & Exam](https://280group.com/products/online-courses/certified-product-manager-online-course-exam/) - The Certified Product Manager – Online Course and Exam teaches you all the core skills that are critical to be a highly-effective Product Manager. In this course you’ll learn how to manage products through every phase of the Product Lifecycle to make them (and your career) more successful. The online course includes 18 learning modules, quizzes, interactive exercises, study materials and a comprehensive practice exam to help you master the material and pass the worldwide-standard Certified Product Manager exam.
 
 ### Classroom
 
-- [Product School](https://www.productschool.com/) - Product School
+- [Product School](https://www.productschool.com/)
 
 ### Certifications
 
 - [CPM - Certified Product Manager](https://aipmm.com/cpm/) - The Association of International Product Marketing & Management offers the CPM certification by way of an exam.
-- [CPM Online Course & Exam](https://280group.com/products/online-courses/certified-product-manager-online-course-exam/) - The Certified Product Manager – Online Course and Exam teaches you all the core skills that are critical to be a highly-effective Product Manager. In this course you’ll learn how to manage products through every phase of the Product Lifecycle to make them (and your career) more successful. The online course includes 18 learning modules, quizzes, interactive exercises, study materials and a comprehensive practice exam to help you master the material and pass the worldwide-standard Certified Product Manager exam.
+
 
 ## Resources
 
@@ -230,10 +319,12 @@ A better way to design. Design, prototype, and collaborate all in the browser—
 
 Maze is a user testing platform that turns your  prototype into actionable insights from real users, bringing confidence to the design process. (https://maze.design/)
 
+
 ## Conferences
 
 - [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
 - [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
+
 
 ## Communities
 
@@ -242,9 +333,16 @@ Maze is a user testing platform that turns your  prototype into actionable insig
 - [PMTrack](https://pmtrack.co) (_using [Slack](https://slack.com/)_)
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
-- [Reddit](https://www.reddit.com/r/ProductManagement/) - /r/productmanagement
+- [Reddit - /r/productmanagement](https://www.reddit.com/r/ProductManagement/)
+
 
 ## Meetups
+
+- [ProductTank](https://www.mindtheproduct.com/producttank/)
+
+## Jobs
+
+- [Mind The Product](https://jobs.mindtheproduct.com/)
 
 ## License
 
