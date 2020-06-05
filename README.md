@@ -12,30 +12,32 @@ By definition, a product manager is an individual who drives the product vision 
   - [Strategy](#strategy)
   - [Technical](#technical)
   - [Go-To-Market](#go-to-market)
-- [Problems](#problems)
-- [Articles](#articles)
-- [Books](#books)
-- [Podcasts](#podcasts)
-- [Certifications](#certifications)
-- [Communities](#communities)
-- [Conferences](#conferences)
-- [Courses](#courses)
-- [Additional resources](#additional-resources)
-- [Tools](#tools)
-  - [To-Do](#to-do)
-  - [Notes](#notes)
-  - [Product Roadmap](#product-roadmap)
-  - [Research](#research)
-  - [Prototyping & Wireframing](#prototyping-wireframing)
-- [Seeds](#seeds)
 - [Frameworks](#frameworks)
-- [Tutorials](#tutorials)
-- [Videos](#videos)
-- [Talks](#talks)
-- [Training & tutorials](#training)
-- [Blogs](#blogs)
-- [Newsletters](#newsletters)
-- [People to Follow](#people)
+- [Courses, Training & Certifications](#courses)
+	- [Online](#online)
+	- [Classroom](#classroom)
+	- [Certifications](#certifications)
+- Resources
+	- [Articles](#articles)
+		- [Adoption](#adoption)
+		- [Engagement](#engagement)
+		- [Assorted](#assorted)
+	- [Blogs](#blogs)
+	- [Books](#books)
+	- [Newsletters](#newsletters)
+	- [People to Follow](#people)
+	- [Podcasts](#podcasts)
+	- [Videos](#videos)
+		- [Talks](#talks)
+	- [Tools](#tools)
+	  - [To-Do](#to-do)
+	  - [Notes](#notes)
+	  - [Product Roadmap](#product-roadmap)
+	  - [Research](#research)
+	  - [Prototyping & Wireframing](#prototyping-wireframing)
+- [Conferences](#conferences)
+- [Communities](#communities)
+- [Meetups](#meetups)
 - [License](#license)
                                      
 ## Skills & Areas of Responsibility
@@ -60,17 +62,40 @@ By definition, a product manager is an individual who drives the product vision 
 
 #### End of Life Plan
 
+## Frameworks
 
-## Specific Problems
+- [Open Product Management Workflow™](https://open-pmw.org/)
+- [Pragmatic Framework](https://www.pragmaticinstitute.com/framework) - Pragmatic Institute have created their own product management framework that they teach via in-person or online training.
+- [Optimal Product Process™](https://280group.com/product-management-methodology/optimal-product-process-framework/)
 
-### Increase Adoption
+## Courses, Training & Certifications
 
-### Increase Engagement
+### Online
 
-### Increase Sales
+- [Udemy](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) - Become a Product Manager
+- [Udemy](https://www.udemy.com/course/productmanagement101/) - Product Management 101
+- [Udemy](https://www.udemy.com/course/productmanagementinterview/) - Master the Product Manager Interview
+- [Udemy](https://www.udemy.com/course/advanced-product-management-vision-strategy-metrics/) - Advanced Product Management: Vision, Strategy & Metrics
+- [Udacity](https://www.udacity.com/course/product-manager-nanodegree--nd036) - Become a Product Manager - Nanodegree
 
-## Articles
+### Classroom
 
+- [Product School](https://www.productschool.com/) - Product School
+
+### Certifications
+
+- [CPM - Certified Product Manager](https://aipmm.com/cpm/) - The Association of International Product Marketing & Management offers the CPM certification by way of an exam.
+- [CPM Online Course & Exam](https://280group.com/products/online-courses/certified-product-manager-online-course-exam/) - The Certified Product Manager – Online Course and Exam teaches you all the core skills that are critical to be a highly-effective Product Manager. In this course you’ll learn how to manage products through every phase of the Product Lifecycle to make them (and your career) more successful. The online course includes 18 learning modules, quizzes, interactive exercises, study materials and a comprehensive practice exam to help you master the material and pass the worldwide-standard Certified Product Manager exam.
+
+## Resources
+
+### Articles
+
+#### Adoption
+
+#### Engagement
+
+#### Assorted
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://blog.usejournal.com/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
 - [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://twitter.com/Wayne).
 - [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://twitter.com/jasonfried).
@@ -97,7 +122,11 @@ By definition, a product manager is an individual who drives the product vision 
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
 
-## Books
+### Blogs
+
+- [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
+
+### Books
 
 - [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - By Chip Heath and Dan Heath.
 - [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - By Chip Heath and Dan Heath.
@@ -118,7 +147,11 @@ By definition, a product manager is an individual who drives the product vision 
 - [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - By Marty Cagan.
 
-## Podcasts
+### Newsletters
+
+### People to Follow
+
+### Podcasts
 
 | Podcast                                                                             | Hosts        | URL                                                                       | Description |
 |-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
@@ -129,10 +162,78 @@ By definition, a product manager is an individual who drives the product vision 
 | <img alt="The Pitch" src="/media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
 | <img alt="ReWork" src="/media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
 
-## Certifications
+### Videos
 
-- [CPM - Certified Product Manager](https://aipmm.com/cpm/) - The Association of International Product Marketing & Management offers the CPM certification by way of an exam.
-- [CPM Online Course & Exam](https://280group.com/products/online-courses/certified-product-manager-online-course-exam/) - The Certified Product Manager – Online Course and Exam teaches you all the core skills that are critical to be a highly-effective Product Manager. In this course you’ll learn how to manage products through every phase of the Product Lifecycle to make them (and your career) more successful. The online course includes 18 learning modules, quizzes, interactive exercises, study materials and a comprehensive practice exam to help you master the material and pass the worldwide-standard Certified Product Manager exam.
+#### Talks
+
+### Tools
+
+#### To-Do
+
+##### To-Do
+
+A tool to quickly manage "to-dos". (https://to-do.microsoft.com)
+
+##### Trello
+
+Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform. (https://trello.com) 
+
+##### Product Board
+
+productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap. (https://www.productboard.com)
+
+##### Taskade
+
+Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams. (https://www.taskade.com)   
+
+#### Notes
+
+##### OneNote
+
+Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals. (https://onenote.com)
+
+##### Bear
+
+Note-taking in Markdown format, with tag-based organizational capabilities. (http://www.shinyfrog.net)
+
+##### Notion
+
+All-in-one workspace for teams and individuals. (https://notion.so)
+
+##### Notejoy
+
+A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those. (https://notejoy.com)
+
+#### Product Roadmap
+
+#### Research
+
+#### Prototyping & Wireframing
+
+##### Balsamiq
+
+Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content. (https://balsamiq.com)
+
+##### Sketch
+
+Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences. (https://www.sketchapp.com)
+
+##### Figma
+
+A better way to design. Design, prototype, and collaborate all in the browser—with Figma. (https://www.figma.com)
+
+##### InVision
+
+(https://www.invisionapp.com/)
+
+##### Maze
+
+Maze is a user testing platform that turns your  prototype into actionable insights from real users, bringing confidence to the design process. (https://maze.design/)
+
+## Conferences
+
+- [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
+- [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
 
 ## Communities
 
@@ -143,128 +244,7 @@ By definition, a product manager is an individual who drives the product vision 
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
 - [Reddit](https://www.reddit.com/r/ProductManagement/) - /r/productmanagement
 
-## Conferences
-
-- [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
-- [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
-
-## Courses & Training
-
-### Online
-
-- [Udemy](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) - Become a Product Manager
-- [Udemy](https://www.udemy.com/course/productmanagement101/) - Product Management 101
-- [Udemy](https://www.udemy.com/course/productmanagementinterview/) - Master the Product Manager Interview
-- [Udemy](https://www.udemy.com/course/advanced-product-management-vision-strategy-metrics/) - Advanced Product Management: Vision, Strategy & Metrics
-- [Udacity](https://www.udacity.com/course/product-manager-nanodegree--nd036) - Become a Product Manager - Nanodegree
-
-### Classroom
-
-- [Product School](https://www.productschool.com/) - Product School
-
-## Tools
-
-### To-Do
-
-#### To-Do
-
-A tool to quickly manage "to-dos". (https://to-do.microsoft.com)
-
-#### Trello
-
-Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform. (https://trello.com) 
-
-#### Product Board
-
-productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap. (https://www.productboard.com)
-
-#### Taskade
-
-Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams. (https://www.taskade.com)   
-
-### Notes
-
-#### OneNote
-
-Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals. (https://onenote.com)
-
-#### Bear
-
-Note-taking in Markdown format, with tag-based organizational capabilities. (http://www.shinyfrog.net)
-
-#### Notion
-
-All-in-one workspace for teams and individuals. (https://notion.so)
-
-#### Notejoy
-
-A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those. (https://notejoy.com)
-
-### Product Roadmap
-
-### Research
-
-### Prototyping & Wireframing
-
-#### Balsamiq
-
-Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content. (https://balsamiq.com)
-
-#### Sketch
-
-Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences. (https://www.sketchapp.com)
-
-#### Figma
-
-A better way to design. Design, prototype, and collaborate all in the browser—with Figma. (https://www.figma.com)
-
-#### InVision
-
-(https://www.invisionapp.com/)
-
-#### Maze
-
-Maze is a user testing platform that turns your  prototype into actionable insights from real users, bringing confidence to the design process. (https://maze.design/)
-
-## Seeds
-
-## Frameworks
-
-- [Open Product Management Workflow™](https://open-pmw.org/)
-- [Pragmatic Framework](https://www.pragmaticinstitute.com/framework) - Pragmatic Institute have created their own product management framework that they teach via in-person or online training.
-- [Optimal Product Process™](https://280group.com/product-management-methodology/optimal-product-process-framework/)
-
-## Tutorials
-
-## Videos
-
-## Talks
-
-## Training & tutorials
-
-## People to Follow
-
-## Blogs
-
-- [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
-
-## Newsletters
-
 ## Meetups
-
-### North America
-
-### South America
-
-### Asia
-
-### Africa
-
-### Australia
-
-### Europe
-
-### Middle-East
 
 ## License
 
