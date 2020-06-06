@@ -1,3 +1,5 @@
+	<img width="500" height="350" src="media/awesome-product-management-logo.svg" alt="Awesome Product Management">
+
 # Awesome Product Management [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome resources for product/program managers to learn and grow. 
