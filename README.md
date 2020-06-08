@@ -1,4 +1,4 @@
-	<img width="500" height="350" src="media/awesome-product-management-logo.svg" alt="Awesome Product Management">
+![Awesome Product Management](media/awesome-product-management-logo.svg)
 
 # Awesome Product Management [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
@@ -129,7 +129,6 @@ By definition, a product manager is an individual who drives the product vision 
 #### Channels
 
 
-
 ### Documents & Plans
 
 #### Business Case Document
@@ -156,7 +155,7 @@ By definition, a product manager is an individual who drives the product vision 
 - [Open Product Management Workflow™](https://open-pmw.org/)
 - [Pragmatic Framework](https://www.pragmaticinstitute.com/framework) - Pragmatic Institute have created their own product management framework that they teach via in-person or online training.
 - [Optimal Product Process™](https://280group.com/product-management-methodology/optimal-product-process-framework/)
-
+- [Best Practicer](https://bestpracticer.com/topic/product-management)
 
 ## Courses, Training & Certifications
 
@@ -345,6 +344,7 @@ Maze is a user testing platform that turns your  prototype into actionable insig
 ## Jobs
 
 - [Mind The Product](https://jobs.mindtheproduct.com/)
+- [Product Hired](https://producthired.com/)
 
 ## License
 

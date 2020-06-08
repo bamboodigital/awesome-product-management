@@ -7,7 +7,7 @@
 	.st1{fill:#FC60A8;}
 	.st2{fill:none;}
 	.st3{font-family:'Marion-Regular';}
-	.st4{font-size:227px;}
+	.st4{font-size:228px;}
 </style>
 <path class="st0" d="M258.2,490.2c4,0,7.3,1.4,10.1,4.2c2.8,2.8,4.2,6.2,4.2,10.1v49.6h-50.7c-4,0-7.3-1.4-10.1-4.2
 	c-2.8-2.8-4.2-6.2-4.2-10.1v-23.6h53.1v-11.7c0-0.7-0.2-1.2-0.7-1.7s-1-0.7-1.7-0.7h-50.7v-11.9L258.2,490.2L258.2,490.2z
@@ -33,7 +33,7 @@
 	c0-0.7-0.2-1.2-0.7-1.7s-1-0.7-1.7-0.7h-36.4c-0.7,0-1.2,0.2-1.7,0.7s-0.7,1-0.7,1.7L739.5,516.2L739.5,516.2z"/>
 <path class="st1" d="M792.5,258.1l-150-137.6l-21.1,23l125,114.6H253.7l125-114.7l-21.1-23l-150,137.7h-0.1v90.7
 	c0,41,39.5,74.4,88,74.4H388c48.5,0,88-33.4,88-74.4v-59.6h48v59.6c0,41,39.5,74.4,88,74.4h92.5c48.5,0,88-33.4,88-74.4V258.1z"/>
-<rect x="1160.8" y="122" class="st2" width="1504.7" height="432.4"/>
-<text transform="matrix(1 0 0 1 1160.8086 278.3862)"><tspan x="0" y="0" class="st0 st3 st4">Product</tspan><tspan x="0" y="272.4" class="st0 st3 st4">Management</tspan></text>
-<rect x="976.2" y="122" class="st0" width="12.9" height="432.1"/>
+<rect x="1200.8" y="124" class="st2" width="1504.7" height="432.4"/>
+<text transform="matrix(1 0 0 1 1200.8086 281.0752)"><tspan x="0" y="0" class="st0 st3 st4">Product</tspan><tspan x="0" y="273.6" class="st0 st3 st4">Management</tspan></text>
+<rect x="994.2" y="122" class="st0" width="12.9" height="432.1"/>
 </svg>
