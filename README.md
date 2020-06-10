@@ -1,5 +1,6 @@
 ![Awesome Product Management](media/awesome-product-management-logo.svg)
 
+
 # Awesome Product Management [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome resources for Product Managers to learn and grow. 
@@ -20,7 +21,7 @@ Definition from Atlassian (https://www.atlassian.com/agile/product-management)
   - [Strategy](#strategy)
   - [Execution](#execution)
   - [Soft Skills](#softskills)
-- [Frameworks](#frameworks)
+- [Product Frameworks](#frameworks)
 - [Courses, Training & Certifications](#courses)
 	- [Online](#online)
 	- [Classroom](#classroom)
@@ -30,13 +31,12 @@ Definition from Atlassian (https://www.atlassian.com/agile/product-management)
 		- [Adoption](#adoption)
 		- [Engagement](#engagement)
 		- [Assorted](#assorted)
+		- [Product Management vs. Product Marketing](#product-management-vs-product-marketing)
 	- [Blogs](#blogs)
 	- [Books](#books)
-	- [Newsletters](#newsletters)
 	- [People to Follow](#people)
 	- [Podcasts](#podcasts)
-	- [Videos](#videos)
-		- [Talks](#talks)
+	- [Videos & Talks](#videos-talks)
 	- [Tools](#tools)
 	  - [To-Do](#to-do)
 	  - [Notes](#notes)
@@ -46,7 +46,13 @@ Definition from Atlassian (https://www.atlassian.com/agile/product-management)
 - [Conferences](#conferences)
 - [Communities](#communities)
 - [Meetups](#meetups)
-- [License](#license)
+- [Jobs, Career & Professional Development](#jobs-career-professional-development)
+	- [Job Boards](#job-boards)
+	- [Interview Preparation](#interview-preparation)
+	- [PM Resumes](#pm-resumes)
+	- [Career Paths](#career-paths)
+	- [Building Your Resume](#building-your-resume)
+	- [Salary Guides](#salary-guides)
 
                                      
 ## Skills & Areas of Responsibility
@@ -67,6 +73,11 @@ Curated articles on specific areas of Product Management.
 - [Identifying Customer Pain Points and Validating Ideas](https://www.shopify.com/partners/blog/product-management-basics)
 - [Market Validation](https://www.productplan.com/glossary/market-validation/)
 - [Validate or Die: Using Validation to Build the Right Product](https://www.mindtheproduct.com/validate-or-die-using-validation-to-build-the-right-product/)
+
+
+#### Market Sizing
+
+- [Market Sizing: The key skill your boss wants you to have, Product Manager](https://medium.com/@shardulmehta/the-one-skill-your-boss-wants-you-to-have-and-how-to-do-it-dd5700d5d823)
 
 
 #### Win/Loss Analysis
@@ -100,16 +111,16 @@ Curated articles on specific areas of Product Management.
 
 #### Distribution Strategy
 
-- []()
-- []()
-- []()
+- [The Secret Formula for Go-to-Market](https://medium.dave-bailey.com/how-to-create-a-genius-go-to-market-strategy-89469ad9106d)
+- [Is Your Product Using the Right Sales Channels?](https://www.productplan.com/product-sales-channels/)
+- [Product Distribution Strategy: 5 Tips For Success](https://marketbold.com/product-distribution-strategy-5-tips-for-success/)
 
 
 #### Product Portfolio
 
 - [What is Product portfolio?](https://www.marketing91.com/product-portfolio/)
-- []()
-- []()
+- [The Definitive Guide to Product Portfolio Management](https://www.smartsheet.com/definitive-guide-to-product-portfolio-management)
+- [Balance Your Portfolio with the Product Portfolio Matrix](https://medium.com/@romanpichler/balance-your-portfolio-with-the-product-portfolio-matrix-919f437fa39b)
 
 
 #### Product Roadmap
@@ -121,11 +132,11 @@ Curated articles on specific areas of Product Management.
 - [The Art of the Strategic Product Roadmap](https://productcoalition.com/the-art-of-the-strategic-product-roadmap-c881f261b4eb)
 
 
-#### Business Plan
+#### Business Plan/Case
 
-- []()
-- []()
-- []()
+- [3 Minute Product Manager: Business Case for New Products](https://www.youtube.com/watch?v=-KCse3XiUPk)
+- [The 60-Second Business Case](https://www.pragmaticinstitute.com/resources/articles/the-60-second-business-case)
+- [What is a Business Case?](https://280group.com/what-is-product-management/documents-templates/business-case/)
 
 
 #### Pricing
@@ -146,131 +157,96 @@ Curated articles on specific areas of Product Management.
 
 #### Product Profitability
 
-- []()
-- []()
-- []()
+- [A framework to define your product metrics](https://uxdesign.cc/a-framework-to-define-your-product-metrics-6ca9837bfc8b)
+- [AARRR Framework- Metrics That Let Your StartUp Sound Like A Pirate Ship](https://medium.com/@ms.mbalke/aarrr-framework-metrics-that-let-your-startup-sound-like-a-pirate-ship-e91d4082994b)
+- [Profit and Loss Responsibility](https://svpg.com/profit-and-loss-responsibility/)
 
 
 #### Innovation
 
-- []()
-- []()
-- []()
+- [Dear CEO, Innovation Starts with a Good Product Manager](https://www.mindtheproduct.com/dear-ceo-innovation-starts-with-a-good-product-manager/)
+- [What is Product Management’s Role in Promoting Innovation?](https://www.productplan.com/product-management-innovation/)
+- [How Product Managers Can Drive Innovation](https://danielelizalde.com/how-to-drive-innovation-that-really-pays-off/)
 
 
 #### Positioning
 
-- []()
-- []()
-- []()
+- [What is product positioning?](https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning)
+- [Obviously Awesome: a product positioning exercise](https://medium.com/hackernoon/obviously-awesome-a-product-positioning-exercise-604e8ced841e)
+- [How to Clarify Your Product’s Positioning](https://medium.dave-bailey.com/how-to-understand-your-customers-adoption-criteria-920dcec373c4?source=search_post---------1)
 
 
 #### Buyer Experience
 
-- []()
-- []()
-- []()
+- [What Is the Buyer's Journey?](https://blog.hubspot.com/sales/what-is-the-buyers-journey)
+- [The Buyer's Journey: What Is It and How to Create Product Marketing Content Aligned to Each Stage](https://www.crayon.co/blog/the-buyers-journey-what-is-it-and-how-to-create-product-marketing-content-aligned-to-each-stage)
+- [How Startups Should Map Their Content Marketing Strategy To The Buyer’s Journey](https://medium.com/@danmartell/how-startups-should-map-their-content-marketing-strategy-to-the-buyers-journey-6cc452a26c9a)
 
 
 #### Buyer Personas
 
-- []()
-- []()
-- []()
+- [User Persona vs. Buyer Persona: Are Your Users Also Buying Your Product?](https://www.productplan.com/user-persona-vs-buyer-persona/)
+- [How to create buyer personas](https://productmarketingalliance.com/how-to-create-buyer-personas/)
+- [Buyer Personas and Product Management](https://www.aha.io/blog/buyer-personas-and-product-management)
 
 
 #### User Personas
 
-- []()
-- []()
-- []()
+- [How should product managers define user personas?](https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas)
+- [Personas for Product Management](https://svpg.com/personas-for-product-management/)
+- [How To Work With User Personas When You’re A Product Manager](https://www.prodpad.com/blog/how-to-create-great-user-personas/)
 
 
-#### Requirements
+#### Use Cases
 
-- [](https://productcoalition.com/six-templates-for-aspiring-product-managers-a568d3115cfe)
-- []()
-- []()
-
-
-#### Use Scenarios
-
-- []()
-- []()
-- []()
+- [How should product managers write use cases?](https://www.quora.com/How-should-product-managers-write-use-cases)
+- [Usage Scenarios for Product Requirements](http://www.product-arts.com/articlelink/917-usage-scenarios-for-product-requirements)
+- [How Context Of Use improves Product Design and User Experience](https://medium.com/nyc-design/how-context-of-use-improves-product-design-and-user-experience-3299d2f0a166)
 
 
 #### Stakeholder Communications
 
-- []()
-- []()
-- []()
+- [PM Communication Plan](https://www.career.pm/posts/what-is-a-product-management-communication-plan/)
+- [The Product Manager communication manifesto](https://uxdesign.cc/the-product-manager-communication-manifesto-d6301b462d3d)
+- [Dealing with Difficult Stakeholders and Team Members](https://medium.com/pminsider/dealing-with-difficult-stakeholders-and-team-members-b207734953b9)
 
 
 ### Execution
 
-#### Go-to-Market Team
-
-- []()
-- []()
-- []()
-
-
-#### Product Launch Plan
-
-- [](https://blog.hubspot.com/marketing/elements-flawless-product-launch-li)
-- [](https://280group.com/what-is-product-management/documents-templates/product-launch-plan/)
-- [](https://www.atlassian.com/blog/marketing-teams/product-launch-plan)
-- [](https://www.productplan.com/product-launch-checklist/)
-
-
 #### Marketing Plan
 
-- []()
-- []()
-- []()
+- [Creating a Marketing Plan](https://medium.com/@staceyferreira/creating-a-marketing-plan-e0869ca454a2)
+- [Establish a Marketing Plan](https://medium.com/@PdMgr/responsibility-6-establish-a-marketing-plan-f23f84ce62c8)
+- [How to Build a Product Marketing Strategy for Your Software Solution](https://www.altexsoft.com/blog/business/how-to-build-a-product-marketing-strategy-for-your-software-solution/)
 
 
 #### Revenue Growth
 
-- []()
-- []()
-- []()
+- [Chasing Revenue Growth (and Hidden Costs)](https://medium.com/@johnpcutler/chasing-revenue-growth-and-hidden-costs-b63374bcf988)
+- [16 Product Strategies for Growth](https://medium.com/the-produx-labs/16-product-strategies-for-growth-aa2645db033c)
+- [Scaling the Revenue Engine](https://medium.com/ceoquest/scaling-the-revenue-engine-chapter-23-expand-9eba51eba73c)
 
 
 #### Revenue Retention
 
-- []()
-- []()
-- []()
+- [PMs & Metrics: Retention Rate](https://productmanagerhq.com/pms-metrics-retention-rate/)
+- [How to Measure Churn: Net Revenue Retention vs. Gross Revenue Retention](https://www.lightercapital.com/blog/net-revenue-retention-vs-gross-revenue-retention/)
+- [How to measure product retention](https://medium.com/@drewmck/how-to-measure-your-products-retention-the-most-misunderstood-and-undervalued-metric-c1515fcc1782)
 
 
-#### Launch
+#### Launch Plan
 
-- []()
-- []()
-- []()
-
-
-#### Awareness
-
-- []()
-- []()
-- []()
+- [18 Tips for Planning a Flawless New Product Launch](https://blog.hubspot.com/marketing/elements-flawless-product-launch-li)
+- [What is a Product Launch Plan?](https://280group.com/what-is-product-management/documents-templates/product-launch-plan/)
+- [How to plan a killer product launch in 6 steps](https://www.atlassian.com/blog/marketing-teams/product-launch-plan)
+- [Product Launch Checklists: From the Oscars to a Software Product Release, They’re Necessary](https://www.productplan.com/product-launch-checklist/)
 
 
-#### Nurturing
+#### Advocate Customers
 
-- []()
-- []()
-- []()
-
-
-#### Advocacy
-
-- []()
-- []()
-- []()
+- [How to identify the right influencers, micro-influencers and advocates for your product?](https://medium.com/usergems/how-to-identify-the-right-influencers-micro-influencers-and-advocates-for-your-product-921da21cc67d?source=search_post)
+- [Why build an army of customer advocates?](https://medium.com/eqtventures/why-build-an-army-of-customer-advocates-6b03f41f2787)
+- [How To Turn Your Users Into Advocates](https://www.smashingmagazine.com/2018/06/how-to-turn-your-users-into-advocates/)
 
 
 #### Measurement
@@ -278,85 +254,47 @@ Curated articles on specific areas of Product Management.
 - [HEART Framework](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux)
 - [Measure twice, cut once](https://library.gv.com/measure-twice-cut-once-e86c2f08b4c)
 - [The Only Metric That Matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea)
+- [Top 11 Frameworks Every Product Manager Should Know](https://blog.usejournal.com/top-11-frameworks-every-product-manager-should-know-aad46dd37b62)
 
 
-#### Sales Alignment
+#### Supporting Sales, Operations, Marketing
 
-- []()
-- []()
-- []()
-
-
-#### Content
-
-- []()
-- []()
-- []()
+- [Nine Things Product Managers Should Know About Supporting Sales](https://www.pragmaticinstitute.com/resources/articles/nine-things-product-managers-should-know-about-supporting-sales)
+- [How to Build an Amazing Relationship Between Product Management and Marketing](https://www.productplan.com/product-management-marketing-relationship/)
+- [Why Should Product Managers Invest in Sales Enablement?](https://www.toptal.com/product-managers/product-management/why-should-product-managers-invest-in-sales-enablement)
+- [Dear Sales, It’s Me… Your Product Manager](https://www.productplan.com/what-product-managers-want-sales-to-know/)
+- [Marketing and Sales Materials: Business First](https://www.pragmaticinstitute.com/resources/articles/marketing-and-sales-materials-business-first)
 
 
-#### Sales Tools
+#### Prioritisation
 
-- []()
-- []()
-- []()
-
-
-#### Channel Training
-
-- []()
-- []()
-- []()
+- [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
+- [20 Product Prioritization Techniques: A Map and Guided Tour](https://foldingburritos.com/product-prioritization-techniques/)
+- [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
+- [A Radical, and Simple, Approach to Product Prioritization](https://medium.com/pminsider/a-radical-and-simple-approach-to-product-prioritization-2e2c27e2c2e)
 
 
-#### Programs
-
-- []()
-- []()
-- []()
-
-
-#### Operations
-
-- []()
-- []()
-- []()
-
-
-#### Events
-
-- []()
-- []()
-- []()
-
-
-#### Channels
-
-- []()
-- []()
-- []()
-
-
-### Documents & Plans
+### PM Documents, Plans & Templates
 
 #### Business Case Document
 
-- []()
-- []()
-- []()
+- [Business Case](https://280group.com/what-is-product-management/documents-templates/business-case/)
+- [Crafting a Strong Product Business Case](https://www.toptal.com/product-managers/product-leader/product-project-business-case)
+- [Business Case](https://www.workfront.com/project-management/life-cycle/initiation/business-case)
 
 
-#### Market Needs Document
+#### Market Requirements Document - MRD
 
-- []()
-- []()
-- []()
+- [Market Requirements Document](https://280group.com/what-is-product-management/documents-templates/market-requirements-document-mrd/)
+- [Writing the Market Requirements Document](https://www.pragmaticinstitute.com/resources/articles/writing-the-market-requirements-document)
+- [The Marketing Requirements Document](https://medium.com/product-development-distillery/chapter-12-the-marketing-requirements-document-268368e07b3d)
 
 
-#### Product Description Document
+#### Product Requirements Document - PRD
 
 - [Newbie PM’s Guide to the Product Requirements Document](https://medium.com/@joellefungyh/newbie-pms-guide-to-the-product-requirements-document-61f7776ab3f1)
-- []()
-- []()
+- [What is a good product requirements document template?](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document-template)
+- [How to Write a PRD — With Examples](https://www.perforce.com/blog/alm/how-write-product-requirements-document-prd)
 
 
 #### Roadmap Document
@@ -366,39 +304,32 @@ Curated articles on specific areas of Product Management.
 - [StopProduct Roadmaps](https://medium.com/@johnpcutler/stop-setting-up-product-roadmaps-to-fail-3189452360a3)
 
 
-#### Market Strategy Document
-
-- []()
-- []()
-- []()
-
-
 #### Beta Plan
 
-- []()
-- []()
-- []()
+- [What is a Beta Program?](https://280group.com/what-is-product-management/documents-templates/beta-program/)
+- [How to Run an Effective Beta Program](https://280group.com/product-management-blog/run-effective-beta-program/)
+- [5 Key Considerations for Running a Successful Beta](https://medium.com/@anantmahajan/5-key-considerations-for-running-a-successful-beta-f259b14a7ac8)
 
 
 #### Launch Plan
 
 - [Product Launch Plan](https://www.productplan.com/product-launch-plan/)
-- [](https://www.demandmetric.com/content/product-launch-plan-template)
-- []()
+- [Product Launch Plan Template](https://www.demandmetric.com/content/product-launch-plan-template)
+- [Launch Planning and Product Management](https://medium.com/@bdehaaff/launch-planning-and-product-management-f9750d140a74)
 
 
 #### Marketing Plan
 
-- [](https://280group.com/what-is-product-management/documents-templates/marketing-plan-template/)
-- [](https://www.productplan.com/marketing-plan/)
-- []()
+- [Marketing Plan Template](https://280group.com/what-is-product-management/documents-templates/marketing-plan-template/)
+- [Marketing Plan](https://www.productplan.com/marketing-plan/)
+- [5 Steps to Create an Outstanding Marketing Plan [Free Templates]](https://blog.hubspot.com/marketing/marketing-plan-template-generator)
 
 
 #### End of Life Plan
 
 - [How to End of Life a Product](https://www.productplan.com/how-to-end-of-life-product/)
 - [End of Life Product](https://280group.com/what-is-product-management/documents-templates/end-of-life-product-eol/)
-- []()
+- [What are the best end-of-life practices?](https://www.quora.com/What-are-the-best-end-of-life-practices)
 
 
 ## Soft Skills
@@ -435,6 +366,13 @@ Curated articles on specific areas of Product Management.
 - [Problem Solving for Product Managers](https://uxdesign.cc/the-discipline-of-problem-solving-for-product-managers-1e93e84f3a29)
 
 
+### Leadership
+
+- [How to become a Great Product Manager](https://medium.com/innovation-machine/the-successful-product-manager-5f3cb3aacb51)
+- [What is Product Leadership?](https://productcoalition.com/what-is-product-leadership-2b284441b56b)
+- [Product Leadership vs Product Management](https://medium.com/@alearningaday/product-leadership-vs-product-management-23218cb1eba)
+
+
 ## Frameworks
 
 - [Open Product Management Workflow™](https://open-pmw.org/)
@@ -455,9 +393,13 @@ Curated articles on specific areas of Product Management.
 - [CPM - Online Course & Exam](https://280group.com/products/online-courses/certified-product-manager-online-course-exam/) - The Certified Product Manager – Online Course and Exam teaches you all the core skills that are critical to be a highly-effective Product Manager. In this course you’ll learn how to manage products through every phase of the Product Lifecycle to make them (and your career) more successful. The online course includes 18 learning modules, quizzes, interactive exercises, study materials and a comprehensive practice exam to help you master the material and pass the worldwide-standard Certified Product Manager exam.
 
 
-### Classroom
+### Training
 
+- [Silicon Valley Product Group Coaching](https://svpg.com/coaching/)
+- [Pragmatic Institute](https://www.pragmaticinstitute.com/product-management)
 - [Product School](https://www.productschool.com/)
+- [Mind the Product Training](https://www.mindtheproduct.com/product-management-training/)
+- [280Group](https://280group.com/product-management-training/courses/)
 
 
 ### Certifications
@@ -466,7 +408,6 @@ Curated articles on specific areas of Product Management.
 
 
 ## Resources
-
 
 ### Articles
 
@@ -477,11 +418,19 @@ Curated articles on specific areas of Product Management.
 - [Product adoption: how to get customers to embrace your product](https://www.intercom.com/blog/product-adoption/)
 - [The 10 Principles of Product & Feature Adoption](https://medium.com/@_pulkitagrawal/the-10-principles-of-product-feature-adoption-68907634446f)
 
+
 #### Engagement
 
 - [Product engagement: the most important metric you aren’t tracking for your SaaS business](https://www.intercom.com/blog/product-engagement/)
 - [To improve product engagement, think outside of the product](https://www.appcues.com/blog/improve-product-engagement-think-outside-of-the-product)
 - [How to Create Sustainable Product Engagement](https://medium.com/better-product/how-to-create-sustainable-product-engagement-2ab88debecb6)
+
+
+#### Product Management vs. Product Marketing
+
+- [Product Management vs. Product Marketing](https://svpg.com/product-management-vs-product-marketing/)
+- [What Is Product Marketing?](https://www.drift.com/blog/what-is-product-marketing/)
+- [What is product marketing? How product marketing builds products](https://www.intercom.com/blog/how-product-marketing-helps-build-product/)
 
 
 #### Assorted
@@ -517,6 +466,9 @@ Curated articles on specific areas of Product Management.
 ### Blogs
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
+- [Inside Intercom](https://www.intercom.com/blog/)
+- [Silicon Valley Product Group: Insights Blog](https://svpg.com/articles/)
+- [Ken Norton](https://www.kennorton.com/)
 
 
 ### Books
@@ -568,22 +520,25 @@ Curated articles on specific areas of Product Management.
 
 ### Podcasts
 
-| Podcast                                                                             | Hosts        | URL                                                                       | Description |
-|-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
-| <img alt="Masters of Scale" src="/media/pod-masters-of-scale.jpeg" width="100px" /> | Reid Hoffman | https://mastersofscale.com/                                               | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook’s Mark Zuckerberg & Sheryl Sandberg, Netflix’s Reed Hastings, Google’s Eric Schmidt, Spanx’s Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you’ve ever heard. |
-| <img alt="The Product Podcast" src="/media/pod-product.jpg" width="100px" />        | Multiple     | https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you’re a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best practices. |
-| <img alt="StartUp" src="/media/pod-startup.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/startup                                       | The business origin story you never get to hear. |
-| <img alt="How I Built This" src="/media/pod-how-i-built.jpg" width="100px" />       | Guy Raz      | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
-| <img alt="The Pitch" src="/media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
-| <img alt="ReWork" src="/media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
+- [Masters of Scale](https://mastersofscale.com/)
+- [The Product Podcast](https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2)
+- [Startup](https://www.gimletmedia.com/startup)
+- [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)
+- [The Pitch](https://www.gimletmedia.com/the-pitch)
+- [ReWork](https://rework.fm/)
 
 
 ### Videos & Talks
 
 - [Product Lessons Learned Conference](https://www.producthood.com/pllconf/) - March 16-22th, 2020
+- [Product School San Francisco](https://www.youtube.com/channel/UC6hlQ0x6kPbAGjYkoz53cvA)
+- [3 TED talks every Product Manager should watch](https://blog.elpassion.com/3-ted-talks-every-product-manager-should-watch-777e7bf5d603)
 
 
 ### Tools
+
+- [Which tools do product managers use?](https://www.aha.io/roadmapping/guide/product-management/which-tools-do-product-managers-use)
+
 
 #### To-Do
 
@@ -603,9 +558,15 @@ Curated articles on specific areas of Product Management.
 #### Product Roadmap
 
 - [Product Board](https://www.productboard.com) 
+- [ProdPad](https://www.prodpad.com/)
+- [Aha!](https://www.aha.io/)
 
 
 #### Research
+
+- [UserTesting.com](https://www.usertesting.com/)
+- [Maze](https://maze.design/)
+- [UserVoice](https://www.uservoice.com/)
 
 
 #### Prototyping & Wireframing
@@ -613,9 +574,8 @@ Curated articles on specific areas of Product Management.
 - [Balsamiq](https://balsamiq.com)
 - [Sketch](https://www.sketchapp.com)
 - [Figma](https://www.figma.com)
-- [InVision](https://www.invisionapp.com/)
 - [AdobeXD](https://adobe.com/xd)
-- [Maze](https://maze.design/)
+- [InVision](https://www.invisionapp.com/)
 
 
 ## Conferences
@@ -645,6 +605,7 @@ Curated articles on specific areas of Product Management.
 ## Meetups
 
 #### North America
+
 - [Product Tank](http://www.meetup.com/producttanknyc/) - Product Tank NY Meetups
 - [Product Austin](http://www.meetup.com/ProductAustin/) - The largest Product Meet-up in Austin, TX
 - [The Product Group](http://www.meetup.com/TheProductGroup/) - The Product Group New York
@@ -661,11 +622,13 @@ Curated articles on specific areas of Product Management.
 
 
 #### Europe
+
 - [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
 - [ProductTank](https://www.mindtheproduct.com/producttank/)
 
 
 #### Asia
+
 - [Product Management Singapore Facebook](https://www.facebook.com/groups/prodmgmtsg/) - Product Management SG Community
 - [Product Camp - Singapore Meetup](http://www.meetup.com/Product-Camp-Singapore/) - Product Camp Meetup
 - [Product Hunt - Singapore Meetup](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - Product Hunt Meetup
@@ -674,11 +637,14 @@ Curated articles on specific areas of Product Management.
  
 
 #### South America
+
 - [Produto.io - São Paulo](https://www.meetup.com/produto-io-sp/) - Produto.io Meetup in São Paulo
 - [Product School - Belo Horizonte](http://www.meetup.com/product-school-belohorizonte/) - Product School Meetup
 
 
-## Jobs
+## Jobs, Career & Professional Development
+
+### Job Boards
 
 - [Mind The Product](https://jobs.mindtheproduct.com/)
 - [Product Hired](https://producthired.com/)
@@ -686,14 +652,22 @@ Curated articles on specific areas of Product Management.
 - [WeWorkRemotely](https://weworkremotely.com/categories/remote-product-jobs)
 
 
-## Preparation
+### Interview Preparation
 
 - [Product Management Exercises](https://www.productmanagementexercises.com/)
+- [Product Interview Tips](https://medium.com/@KatOrekhova/product-interview-tips-5784f743b0ab?source=search_post---------3)
+- [The Ultimate List of Product Manager Interview Questions](https://www.productschool.com/blog/product-management-2/the-ultimate-list-product-manager-interview-questions/)
 
 
-## Career & Professional Development
+### PM Resumes
+
+- [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs?share=1)
+- [Nail Your Product Manager Resume](https://medium.com/teamcandor/nail-your-product-manager-resume-ff7484835c81)
+- [Treat your resume like a product: how to write a product manager resume](https://medium.com/@buldakova/treat-your-resume-like-a-product-how-to-write-a-product-manager-resume-bbfbad5eb6a5)
+
 
 ### Career Paths
+
 - [PM Career Ladders at 8 Top Tech Firms](https://www.sachinrekhi.com/product-management-career-ladders-at-8-top-technology-firms)
 - [PM Skills by Seniority Level](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10)
 - [PM Career Path](https://mixpanel.com/blog/2016/07/28/hunter-walk-product-manager-career-path/)
@@ -706,9 +680,14 @@ Curated articles on specific areas of Product Management.
 - [Building Your PM Brand](https://blog.usejournal.com/building-your-product-manager-brand-and-why-it-matters-94dd867e2c00)
 - [How to build your “portfolio” as a product manager](https://productcoalition.com/how-to-build-a-portfolio-as-a-product-manager-8d1c8791bd60)
 - [Professional Development as a PM](https://productmanagerhq.com/professional-development-as-a-product-manager/)
+- [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager)
 
 
 ### Salary Guides
+
+- [Glassdoor Salaries](https://www.glassdoor.com/Salaries/product-manager-salary-SRCH_KO0,15.htm)
+- [Salary.com](https://www1.salary.com/Product-Manager-Salary.html)
+- [Payscale](https://www.payscale.com/research/US/Job=Product_Manager%2C_Software/Salary)
 
 
 ## License
