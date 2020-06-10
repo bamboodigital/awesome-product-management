@@ -2,17 +2,24 @@
 
 # Awesome Product Management [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome resources for product/program managers to learn and grow. 
+A curated list of awesome resources for Product Managers to learn and grow. 
 
-## Who's a Product Manager?
 
-By definition, a product manager is an individual who drives the product vision and has a deep understanding of customer needs. PMs generally are considered to be at the intersection of the business, technology and and design spaces - they are the experts in the problem space, and are able to learn and iterate quickly to deliver valuable experiences to consumers.
+## What is Product Management?
+
+Product Management is an organizational function that guides every step of a product’s lifecycle: from development, to positioning and pricing, by focusing on the product and its customers first and foremost. To build the best possible product, product managers advocate for customers within the organization and make sure the voice of the market is heard and heeded.
+
+Thanks to this focus on the customer, product teams routinely ship better-designed and higher-performing products. In tech, where entrenched products are quickly uprooted by newer and better solutions, there is more need than ever for an intimate understanding of customers and the ability to create tailored solutions for them. That’s where product management comes in.
+
+Definition from Atlassian (https://www.atlassian.com/agile/product-management)
+
 
 ## Contents
 
 - [Skills & Areas of Responsibility](#skills)
   - [Strategy](#strategy)
   - [Execution](#execution)
+  - [Soft Skills](#softskills)
 - [Frameworks](#frameworks)
 - [Courses, Training & Certifications](#courses)
 	- [Online](#online)
@@ -40,114 +47,392 @@ By definition, a product manager is an individual who drives the product vision 
 - [Communities](#communities)
 - [Meetups](#meetups)
 - [License](#license)
+
                                      
 ## Skills & Areas of Responsibility
 
+Curated articles on specific areas of Product Management.
+
+
 ### Strategy
+
+- [Intro to Product Strategy](https://medium.com/@gibsonbiddle/intro-to-product-strategy-60bdf72b17e3)
+
 
 #### Market Problems
 
+- [How do Product Managers conduct user, market or competitive research](https://www.quora.com/How-do-Product-Managers-conduct-user-market-or-competitive-research-i-e-what-tools-or-techniques-do-you-use-and-are-these-things-done-differently-in-big-firms-such-as-Google-as-compared-to-at-startups?share=1)
+- [What is Market Research and Competitive Analysis?](https://280group.com/what-is-product-management/skills/market-research-competitive-analysis/)
+- [Understand your market problems and validate your solution](https://learn.marsdd.com/article/validating-your-solution-an-overview/)
+- [Identifying Customer Pain Points and Validating Ideas](https://www.shopify.com/partners/blog/product-management-basics)
+- [Market Validation](https://www.productplan.com/glossary/market-validation/)
+- [Validate or Die: Using Validation to Build the Right Product](https://www.mindtheproduct.com/validate-or-die-using-validation-to-build-the-right-product/)
+
+
 #### Win/Loss Analysis
 
-#### Distinctive Competencies
+- [How to do Win Loss Analysis](https://www.crayon.co/blog/how-to-do-win-loss-analysis-examples-resources)
+- [How to Conduct Win Loss Analysis](https://openviewpartners.com/blog/how-to-conduct-win-loss-analysis/)
+- [Starting and Running a Win Loss Program](https://www.pragmaticinstitute.com/resources/articles/starting-and-running-a-win-loss-program)
 
-#### Competitive Landscape
 
-#### Asset Assessment
+#### Competitor Research
+
+- [SWOT Overview](https://medium.com/s/how-to-build-a-brand/lets-talk-about-swot-analysis-a49f825406fa)
+- [Marty Cagan](https://svpg.com/competition/)
+- [Competitor Matrix](https://www.crayon.co/blog/competitive-matrix-examples)
+- [Intercom on Product vs Company Strategy](https://www.intercom.com/blog/podcasts/intercom-on-product-ep07/)
+- [JTBD](http://www.extendslogic.com/business/jobs-to-be-done-cancel-interviews/)
+- [/r/productmanagement](https://www.reddit.com/r/ProductManagement/comments/9lvmsw/how_do_you_gather_detailed_competitor_intelligence/)
+- [UX Studio](https://uxstudioteam.com/ux-blog/competitor-analysis/)
+- [Airtable](https://airtable.news/a-step-by-step-guide-to-running-competitor-analysis-774b917faf41)
+- [UX Design](https://uxdesign.cc/keep-agile-teams-aligned-820fdf142a60)
+- [PM Insider](https://medium.com/pminsider/real-competitive-analysis-is-about-learning-to-love-your-competitor-15e45b9ef10a)
+
 
 #### Market Definition
 
+- [What is Market Segmentation?](https://280group.com/what-is-product-management/skills/market-segmentation/)
+- [AI meets marketing segmentation models](https://towardsdatascience.com/data-science-powered-segmentation-models-ae89f9bd405f)
+- [The 6 types of user segmentation and what they mean for your product](https://uxdesign.cc/how-to-think-segmentation-from-day-1-f714df093ccb)
+- [Market Segmentation Through A Jobs-to-be-Done Lens](https://jobs-to-be-done.com/market-segmentation-through-a-jobs-to-be-done-lens-5ef9242de65)
+
+
 #### Distribution Strategy
+
+- []()
+- []()
+- []()
+
 
 #### Product Portfolio
 
+- [What is Product portfolio?](https://www.marketing91.com/product-portfolio/)
+- []()
+- []()
+
+
 #### Product Roadmap
+
+- [Magical Thinking and the Zero-Sum Roadmap](https://www.mironov.com/magical_thinking/)
+- [Drop Feature-based Product Roadmaps](https://www.producttalk.org/2014/04/drop-feature-based-product-roadmaps/)
+- [Before you Plan your Product Roadmap](https://www.intercom.com/blog/before-you-plan-your-product-roadmap/)
+- [What does an Agile Product Roadmap Look Like?](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
+- [The Art of the Strategic Product Roadmap](https://productcoalition.com/the-art-of-the-strategic-product-roadmap-c881f261b4eb)
+
 
 #### Business Plan
 
+- []()
+- []()
+- []()
+
+
 #### Pricing
+
+- [What are Product Pricing Strategies?](https://280group.com/what-is-product-management/skills/product-pricing-strategies/)
+- [Why the Product Team Must Own Pricing](https://www.pragmaticinstitute.com/resources/articles/why-the-product-team-must-own-pricing)
+- [A Founder’s Guide to Product Pricing](https://medium.com/dreamit-perspectives/founders-guide-to-product-pricing-b187093e2483)
+- [My Product Management Toolkit (28): Testing Price Sensitivity](https://medium.com/@maa1/my-product-management-toolkit-28-testing-price-sensitivity-4d3679a3e8e7)
+- [How Should I Price My Product?](https://www.aha.io/roadmapping/guide/product-strategy/how-should-i-price-my-product)
+
 
 #### Buy, Build or Partner
 
+- [Buy vs. build: Six steps to making the right decision](https://www.techrepublic.com/article/buy-vs-build-six-steps-to-making-the-right-decision/)
+- [When It Comes to Software, Should You Build or Buy?](https://medium.com/@ginatrapani/when-it-comes-to-software-should-you-build-or-buy-f30b2e6511d6)
+- [As a software product manager, when and how do you make build vs. buy decision?](https://www.quora.com/As-a-software-product-manager-when-and-how-do-you-make-build-vs-buy-decision?share=1)
+
+
 #### Product Profitability
+
+- []()
+- []()
+- []()
+
 
 #### Innovation
 
+- []()
+- []()
+- []()
+
+
 #### Positioning
+
+- []()
+- []()
+- []()
+
 
 #### Buyer Experience
 
+- []()
+- []()
+- []()
+
+
 #### Buyer Personas
+
+- []()
+- []()
+- []()
+
 
 #### User Personas
 
+- []()
+- []()
+- []()
+
+
 #### Requirements
+
+- [](https://productcoalition.com/six-templates-for-aspiring-product-managers-a568d3115cfe)
+- []()
+- []()
+
 
 #### Use Scenarios
 
+- []()
+- []()
+- []()
+
+
 #### Stakeholder Communications
 
+- []()
+- []()
+- []()
 
 
 ### Execution
 
-
 #### Go-to-Market Team
+
+- []()
+- []()
+- []()
+
 
 #### Product Launch Plan
 
+- [](https://blog.hubspot.com/marketing/elements-flawless-product-launch-li)
+- [](https://280group.com/what-is-product-management/documents-templates/product-launch-plan/)
+- [](https://www.atlassian.com/blog/marketing-teams/product-launch-plan)
+- [](https://www.productplan.com/product-launch-checklist/)
+
+
 #### Marketing Plan
+
+- []()
+- []()
+- []()
+
 
 #### Revenue Growth
 
+- []()
+- []()
+- []()
+
+
 #### Revenue Retention
+
+- []()
+- []()
+- []()
+
 
 #### Launch
 
+- []()
+- []()
+- []()
+
+
 #### Awareness
+
+- []()
+- []()
+- []()
+
 
 #### Nurturing
 
+- []()
+- []()
+- []()
+
+
 #### Advocacy
+
+- []()
+- []()
+- []()
+
 
 #### Measurement
 
+- [HEART Framework](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux)
+- [Measure twice, cut once](https://library.gv.com/measure-twice-cut-once-e86c2f08b4c)
+- [The Only Metric That Matters](https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea)
+
+
 #### Sales Alignment
+
+- []()
+- []()
+- []()
+
 
 #### Content
 
+- []()
+- []()
+- []()
+
+
 #### Sales Tools
+
+- []()
+- []()
+- []()
+
 
 #### Channel Training
 
+- []()
+- []()
+- []()
+
+
 #### Programs
+
+- []()
+- []()
+- []()
+
 
 #### Operations
 
+- []()
+- []()
+- []()
+
+
 #### Events
 
+- []()
+- []()
+- []()
+
+
 #### Channels
+
+- []()
+- []()
+- []()
 
 
 ### Documents & Plans
 
 #### Business Case Document
 
+- []()
+- []()
+- []()
+
+
 #### Market Needs Document
+
+- []()
+- []()
+- []()
+
 
 #### Product Description Document
 
+- [Newbie PM’s Guide to the Product Requirements Document](https://medium.com/@joellefungyh/newbie-pms-guide-to-the-product-requirements-document-61f7776ab3f1)
+- []()
+- []()
+
+
 #### Roadmap Document
+
+- [How we Build Product Roadmap at Asana](https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad)
+- [Using Themes in your Modern PM Roadmap](https://medium.com/@jonatisokon/using-themes-in-your-modern-product-management-roadmap-d6fb064df266)
+- [StopProduct Roadmaps](https://medium.com/@johnpcutler/stop-setting-up-product-roadmaps-to-fail-3189452360a3)
+
 
 #### Market Strategy Document
 
+- []()
+- []()
+- []()
+
+
 #### Beta Plan
+
+- []()
+- []()
+- []()
+
 
 #### Launch Plan
 
+- [Product Launch Plan](https://www.productplan.com/product-launch-plan/)
+- [](https://www.demandmetric.com/content/product-launch-plan-template)
+- []()
+
+
 #### Marketing Plan
 
+- [](https://280group.com/what-is-product-management/documents-templates/marketing-plan-template/)
+- [](https://www.productplan.com/marketing-plan/)
+- []()
+
+
 #### End of Life Plan
+
+- [How to End of Life a Product](https://www.productplan.com/how-to-end-of-life-product/)
+- [End of Life Product](https://280group.com/what-is-product-management/documents-templates/end-of-life-product-eol/)
+- []()
+
+
+## Soft Skills
+
+### Empathy
+
+- [Empathy Map Canvas](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a)
+- [How to Run an Empathy & User Journey Mapping Workshop](https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-813f3737067)
+- [Journey Mapping is Key to Gaining Empathy](https://uxplanet.org/journey-mapping-is-key-to-gaining-empathy-1da5b54655e1)
+- [Empathy: One of The Keys to My Business Success](https://medium.com/@garyvee/empathy-one-of-the-keys-to-my-business-success-25fb418e5a81)
+- [User Research. Empathy Is the Best UX Policy.](https://uxplanet.org/user-research-empathy-is-the-best-ux-policy-5f966ba5bbdc)
+
+
+### Communication
+
+- [On the importance of writing for Product Managers](https://medium.com/@opj.duprat/on-the-importance-of-writing-for-product-managers-23ead50055ca)
+- [Write to Influence: Effective Writing with Pyramid Principle](https://medium.com/@young_elva/%EF%B8%8Fhow-to-influence-pyramid-principle-in-product-management-e1adc0436899)
+- [Product Manager Leadership: How to create communications in the company](https://medium.com/mytake/product-managers-leadership-how-to-build-communications-283724aafd4b)
+
+
+### Multi-tasking
+
+- [The Cost of Context Switching](https://medium.com/@michaelcalleia/the-cost-of-context-switching-909f1d1569a1)
+- [Dealing with Context Switching as a Product Manager](https://medium.com/everyone-is-a-product-expert/dealing-with-context-switching-as-a-product-manager-8ae1971ca0c2)
+- [The Price We Pay for Multitasking at Work](https://medium.com/s/please-advise/my-eyes-are-up-here-5f6eba6a4d1e)
+- [Multitasking is Killing Your Brain](https://medium.com/the-mission/multitasking-is-killing-your-brain-79104e62e930)
+
+
+### Problem-solving
+
+- [The 4 Most Effective Ways Leaders Solve Problems](https://www.forbes.com/sites/glennllopis/2013/11/04/the-4-most-effective-ways-leaders-solve-problems/#2d03b9fe4f97)
+- [What is Problem Solving?](https://asq.org/quality-resources/problem-solving)
+- [Level Up Your Problem-Solving Skills](https://www.producttalk.org/2016/01/product-managers-level-problem-solving-skills/)
+- [Problem Solving for Product Managers](https://uxdesign.cc/the-discipline-of-problem-solving-for-product-managers-1e93e84f3a29)
 
 
 ## Frameworks
@@ -156,6 +441,7 @@ By definition, a product manager is an individual who drives the product vision 
 - [Pragmatic Framework](https://www.pragmaticinstitute.com/framework) - Pragmatic Institute have created their own product management framework that they teach via in-person or online training.
 - [Optimal Product Process™](https://280group.com/product-management-methodology/optimal-product-process-framework/)
 - [Best Practicer](https://bestpracticer.com/topic/product-management)
+
 
 ## Courses, Training & Certifications
 
@@ -168,9 +454,11 @@ By definition, a product manager is an individual who drives the product vision 
 - [Udacity - Become a Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
 - [CPM - Online Course & Exam](https://280group.com/products/online-courses/certified-product-manager-online-course-exam/) - The Certified Product Manager – Online Course and Exam teaches you all the core skills that are critical to be a highly-effective Product Manager. In this course you’ll learn how to manage products through every phase of the Product Lifecycle to make them (and your career) more successful. The online course includes 18 learning modules, quizzes, interactive exercises, study materials and a comprehensive practice exam to help you master the material and pass the worldwide-standard Certified Product Manager exam.
 
+
 ### Classroom
 
 - [Product School](https://www.productschool.com/)
+
 
 ### Certifications
 
@@ -179,11 +467,22 @@ By definition, a product manager is an individual who drives the product vision 
 
 ## Resources
 
+
 ### Articles
 
 #### Adoption
 
+- [The Complete Guide to Product Adoption: from Product Life Cycle to Customer Decision Journey](https://flevy.com/blog/the-complete-guide-to-product-adoption-from-product-lifecycle-to-customer-decision-journey/)
+- [Understanding The Product Adoption Curve Could Totally Transform Your SaaS Marketing](https://www.crazyegg.com/blog/product-adoption-to-transform-marketing/)
+- [Product adoption: how to get customers to embrace your product](https://www.intercom.com/blog/product-adoption/)
+- [The 10 Principles of Product & Feature Adoption](https://medium.com/@_pulkitagrawal/the-10-principles-of-product-feature-adoption-68907634446f)
+
 #### Engagement
+
+- [Product engagement: the most important metric you aren’t tracking for your SaaS business](https://www.intercom.com/blog/product-engagement/)
+- [To improve product engagement, think outside of the product](https://www.appcues.com/blog/improve-product-engagement-think-outside-of-the-product)
+- [How to Create Sustainable Product Engagement](https://medium.com/better-product/how-to-create-sustainable-product-engagement-2ab88debecb6)
+
 
 #### Assorted
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://blog.usejournal.com/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
@@ -211,10 +510,14 @@ By definition, a product manager is an individual who drives the product vision 
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
+- [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success)
+- [What Distinguishes the Top 1% of Product Managers from the Top 10%?](https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10)
+
 
 ### Blogs
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
+
 
 ### Books
 
@@ -237,9 +540,31 @@ By definition, a product manager is an individual who drives the product vision 
 - [Creative Selection](http://creativeselection.io/) - By Ken Kocienda.
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - By Marty Cagan.
 
-### Newsletters
 
 ### People to Follow
+
+- [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
+- [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
+- [Hunter Walk](https://twitter.com/hunterwalk) - @homebrew, Seed Stage Venture Fund w @satyap. Made products at YouTube, Google & SecondLife.
+- [Ian McAllister](https://twitter.com/ianmcall) - Director of Product at Airbnb. Former Amazon and founder of @AmazonSmile.
+- [Marty Cagan](https://twitter.com/cagan) - I'm a partner at Silicon Valley Product Group, specializing in product teams and product strategy
+- [Ellen Chisa](https://twitter.com/ellenchisa) - VP Product for http://lolatravel.com , temporary @harvardhbs dropout.
+- [Jackie Bavaro](https://twitter.com/jackiebo) - Asana Product Manager. Co-Author of Cracking the PM Interview. Previously @ Google & Microsoft
+- [Fernando Delgado](https://www.linkedin.com/in/fernandodelgado/) - Sr. Product Manager at Google. Previously worked as an Entrepreneur, Product Management Coach, and Sr Director of Product Management at Yahoo.
+- [Julie Zhuo](https://twitter.com/joulee) - Product design VP @ Facebook.
+- [Joel Spolsky](https://twitter.com/spolsky) - CEO of Stack Overflow, co-founder of Fog Creek Software (FogBugz, Kiln), and creator of Trello.
+- [Bruce McCarthy](https://twitter.com/d8a_driven) - Innovator, consultant, coach, and evangelist for better products and product development
+- [Des Traynor](https://twitter.com/destraynor) - Co-founder of @intercom.
+- [Sachin Rekhi](https://twitter.com/sachinrekhi) - Entrepreneur, Product Guy, and Software Engineer.  
+- [Adam Nash](https://twitter.com/adamnash) - CEO @Wealthfront
+- [Rich Mironov](https://twitter.com/RichMironov) - Tech start-up veteran, product exec/coach/mentor, writer (Art of Product Management)
+- [Eric Ries](https://twitter.com/ericries) - Trying to change how startups are built.
+- [Steven Sinofsky](https://twitter.com/stevesi) - Board Partner @a16z • Adviser @BoxHQ • Writings @ Learning by Shipping
+- [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London
+- [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank
+- [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
+- [Charunethran Panchalam Govindarajan](https://twitter.com/charupg) - Product Manager, Intel / Social Entrepreneur / Tech Enthusiast 
+
 
 ### Podcasts
 
@@ -252,79 +577,55 @@ By definition, a product manager is an individual who drives the product vision 
 | <img alt="The Pitch" src="/media/pod-pitch.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/the-pitch                                     | Where real entrepreneurs pitch to real investors—for real money. |
 | <img alt="ReWork" src="/media/pod-rework.png" width="100px" />                      | Multiple     | https://rework.fm/                                                        | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners. |
 
-### Videos
 
-#### Talks
+### Videos & Talks
+
+- [Product Lessons Learned Conference](https://www.producthood.com/pllconf/) - March 16-22th, 2020
+
 
 ### Tools
 
 #### To-Do
 
-##### To-Do
+- [To-Do](https://to-do.microsoft.com)
+- [Trello](https://trello.com)
+- [Taskade](https://www.taskade.com) 
 
-A tool to quickly manage "to-dos". (https://to-do.microsoft.com)
-
-##### Trello
-
-Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform. (https://trello.com) 
-
-##### Product Board
-
-productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap. (https://www.productboard.com)
-
-##### Taskade
-
-Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams. (https://www.taskade.com)   
 
 #### Notes
 
-##### OneNote
+- [OneNote](https://onenote.com)
+- [Bear](http://www.shinyfrog.net)
+- [Notion](https://notion.so)
+- [Notejoy](https://notejoy.com)
 
-Efficient note-taking with superior organizational capabilities. Integrates easily with team-based workflows, where notes from the same notebook can be shared with many individuals. (https://onenote.com)
-
-##### Bear
-
-Note-taking in Markdown format, with tag-based organizational capabilities. (http://www.shinyfrog.net)
-
-##### Notion
-
-All-in-one workspace for teams and individuals. (https://notion.so)
-
-##### Notejoy
-
-A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those. (https://notejoy.com)
 
 #### Product Roadmap
 
+- [Product Board](https://www.productboard.com) 
+
+
 #### Research
+
 
 #### Prototyping & Wireframing
 
-##### Balsamiq
-
-Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content. (https://balsamiq.com)
-
-##### Sketch
-
-Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences. (https://www.sketchapp.com)
-
-##### Figma
-
-A better way to design. Design, prototype, and collaborate all in the browser—with Figma. (https://www.figma.com)
-
-##### InVision
-
-(https://www.invisionapp.com/)
-
-##### Maze
-
-Maze is a user testing platform that turns your  prototype into actionable insights from real users, bringing confidence to the design process. (https://maze.design/)
+- [Balsamiq](https://balsamiq.com)
+- [Sketch](https://www.sketchapp.com)
+- [Figma](https://www.figma.com)
+- [InVision](https://www.invisionapp.com/)
+- [AdobeXD](https://adobe.com/xd)
+- [Maze](https://maze.design/)
 
 
 ## Conferences
 
-- [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
-- [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
+- [Industry](https://industryconference.com/)
+- [ProductCon](https://www.productschool.com/productcon/)
+- [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People
+- [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
+- [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
+- [Product Camp Brasil](http://www.productcamp.com.br) - The event is now the largest on Product Management in Latin America, where Brazilian and international speakers share their learnings about Product, UX and Growth with the participants.
 
 
 ## Communities
@@ -335,16 +636,80 @@ Maze is a user testing platform that turns your  prototype into actionable insig
 - [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
 - [Reddit - /r/productmanagement](https://www.reddit.com/r/ProductManagement/)
+- [Mind the Product](http://www.mindtheproduct.com) - Mind the Product Community Website and Blog
+- [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
+- [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
+- [Product Camp](http://www.productcamp.org) - Product Camp Community Website and Blog
 
 
 ## Meetups
 
+#### North America
+- [Product Tank](http://www.meetup.com/producttanknyc/) - Product Tank NY Meetups
+- [Product Austin](http://www.meetup.com/ProductAustin/) - The largest Product Meet-up in Austin, TX
+- [The Product Group](http://www.meetup.com/TheProductGroup/) - The Product Group New York
+- [Lean Product & Lean UX Silicon Valley](http://www.meetup.com/lean-product/) - People interested in applying Lean Startup, Lean UX, and Agile principles to design and develop products that customers love
+- [Product Management Fast Track](http://www.meetup.com/ProductManagementFastTrack/) - Product Management in San Francisco
+- [SUPA Product Talks SFBay](http://www.meetup.com/SUPAProductTalks/) - SUPA Product Academy in San Francisco
+- [Silicon Valley Strategy, Innovation and Product Management](http://www.meetup.com/Silicon-Valley-Product-Management/) - Product Management in Cupertino, CA
+- [Startup Metrics Toronto, Canada](http://www.meetup.com/Startup-Metrics-Toronto/) - A group for entrepreneurs and product managers to discuss the metrics that matter to their startups.
+- [Product School - San Francisco Meetup](http://www.meetup.com/productmanagementSF/) - Product School Meetup
+- [Product School - Silicon Valley Meetup](http://www.meetup.com/productmanagementSV/) - Product School Meetup
+- [Product School - New York Meetup](http://www.meetup.com/productmanagementNY/) - Product School Meetup
+- [Product School - Los Angeles Meetup](http://www.meetup.com/productmanagementLA/) - Product School Meetup
+- [Product School - Boston Meetup](http://www.meetup.com/productmanagementBOS/) - Product School Meetup
+
+
+#### Europe
+- [The Product Group London](http://www.meetup.com/TheProductGroupLondon/) - The Product Group London
 - [ProductTank](https://www.mindtheproduct.com/producttank/)
+
+
+#### Asia
+- [Product Management Singapore Facebook](https://www.facebook.com/groups/prodmgmtsg/) - Product Management SG Community
+- [Product Camp - Singapore Meetup](http://www.meetup.com/Product-Camp-Singapore/) - Product Camp Meetup
+- [Product Hunt - Singapore Meetup](http://www.meetup.com/Product-Hunt-Singapore-Meetup-Group/) - Product Hunt Meetup
+- [Product Talks - Singapore Meetup](http://www.meetup.com/producttalkssingapore/) - Product Talks Meetup
+- [Product Tank - Singapore Meetup](http://www.meetup.com/ProductTank-Singapore/) - Product Tank Meetup
+ 
+
+#### South America
+- [Produto.io - São Paulo](https://www.meetup.com/produto-io-sp/) - Produto.io Meetup in São Paulo
+- [Product School - Belo Horizonte](http://www.meetup.com/product-school-belohorizonte/) - Product School Meetup
+
 
 ## Jobs
 
 - [Mind The Product](https://jobs.mindtheproduct.com/)
 - [Product Hired](https://producthired.com/)
+- [PathToProduct](https://www.pathtoproduct.com/)
+- [WeWorkRemotely](https://weworkremotely.com/categories/remote-product-jobs)
+
+
+## Preparation
+
+- [Product Management Exercises](https://www.productmanagementexercises.com/)
+
+
+## Career & Professional Development
+
+### Career Paths
+- [PM Career Ladders at 8 Top Tech Firms](https://www.sachinrekhi.com/product-management-career-ladders-at-8-top-technology-firms)
+- [PM Skills by Seniority Level](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10)
+- [PM Career Path](https://mixpanel.com/blog/2016/07/28/hunter-walk-product-manager-career-path/)
+- [PM Careers Levels, Growth and Promotions](https://medium.com/pminsider/product-management-careers-levels-career-growth-and-promotions-13f93a383a5a)
+- [Evolving Your PM Career Ladder](https://www.intercom.com/blog/evolving-your-product-management-career-ladder/)
+
+
+### Building Your Resume
+
+- [Building Your PM Brand](https://blog.usejournal.com/building-your-product-manager-brand-and-why-it-matters-94dd867e2c00)
+- [How to build your “portfolio” as a product manager](https://productcoalition.com/how-to-build-a-portfolio-as-a-product-manager-8d1c8791bd60)
+- [Professional Development as a PM](https://productmanagerhq.com/professional-development-as-a-product-manager/)
+
+
+### Salary Guides
+
 
 ## License
 
